@@ -1,0 +1,1000 @@
+2024-11-01 01:06:55,183 - root - INFO - Starting the application.
+2024-11-01 01:06:55,183 - root - INFO - App initialized.
+2024-11-01 01:06:55,183 - root - INFO - Loading plugins...
+2024-11-01 01:06:55,188 - root - INFO - Registered plugin command: add
+2024-11-01 01:06:55,188 - root - INFO - Registered plugin command: divide
+2024-11-01 01:06:55,188 - root - INFO - Registered plugin command: exit
+2024-11-01 01:06:55,188 - root - INFO - Registered plugin command: multiply
+2024-11-01 01:06:55,189 - root - INFO - Registered plugin command: subtract
+2024-11-01 01:06:55,189 - root - INFO - Plugins loaded successfully.
+2024-11-01 01:06:55,189 - root - INFO - Starting REPL for user input.
+2024-11-01 01:07:30,553 - root - INFO - Starting the application.
+2024-11-01 01:07:30,554 - root - INFO - App initialized.
+2024-11-01 01:07:30,554 - root - INFO - Loading plugins...
+2024-11-01 01:07:30,559 - root - INFO - Registered plugin command: add
+2024-11-01 01:07:30,560 - root - INFO - Registered plugin command: divide
+2024-11-01 01:07:30,560 - root - INFO - Registered plugin command: exit
+2024-11-01 01:07:30,560 - root - INFO - Registered plugin command: multiply
+2024-11-01 01:07:30,560 - root - INFO - Registered plugin command: subtract
+2024-11-01 01:07:30,560 - root - INFO - Plugins loaded successfully.
+2024-11-01 01:07:30,560 - root - INFO - Starting REPL for user input.
+2024-11-01 01:07:37,969 - root - INFO - Exiting application.
+2024-11-01 01:09:39,959 - root - INFO - Starting the application.
+2024-11-01 01:09:39,959 - root - INFO - App initialized.
+2024-11-01 01:09:39,959 - root - INFO - Loading plugins...
+2024-11-01 01:09:39,965 - root - INFO - Registered plugin command: add
+2024-11-01 01:09:39,965 - root - INFO - Registered plugin command: divide
+2024-11-01 01:09:39,965 - root - INFO - Registered plugin command: exit
+2024-11-01 01:09:39,966 - root - INFO - Registered plugin command: multiply
+2024-11-01 01:09:39,966 - root - INFO - Registered plugin command: subtract
+2024-11-01 01:09:39,966 - root - INFO - Plugins loaded successfully.
+2024-11-01 01:09:39,966 - root - INFO - Starting REPL for user input.
+2024-11-01 01:09:59,422 - root - INFO - Exiting application.
+2024-11-01 01:16:29,743 - root - INFO - Starting the application.
+2024-11-01 01:16:41,099 - root - INFO - Starting the application.
+2024-11-01 01:48:41,526 - root - INFO - Starting the application.
+2024-11-01 01:50:21,228 - root - INFO - Starting the application.
+2024-11-01 01:52:42,033 - root - INFO - Starting the application.
+2024-11-01 02:08:25,156 - root - INFO - Starting the application.
+2024-11-01 02:08:27,940 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-01 02:15:38,386 - root - INFO - Starting the application.
+2024-11-01 02:15:40,636 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-01 02:15:45,457 - root - INFO - Mulitplication command activated[3, 4]: Result = 12.0 
+2024-11-01 02:15:52,774 - root - INFO - Mulitplication command activated[43, 3232]: Result = 138976.0 
+2024-11-01 02:15:57,113 - root - INFO - Division command activated[34, 3]: Result = 11.333333333333334 
+2024-11-01 02:16:02,446 - root - INFO - Subtracting command activated[2, 4]: Result = -2.0 
+2024-11-01 02:28:17,328 - root - INFO - Starting the application.
+2024-11-01 02:28:20,340 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-01 02:33:41,485 - root - INFO - Starting the application.
+2024-11-01 02:33:43,572 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-01 02:33:50,606 - root - WARNING - You have entered an unknown command: multiplyr3
+2024-11-01 02:33:55,453 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-01 02:37:45,120 - root - INFO - Starting the application.
+2024-11-01 02:39:15,753 - root - INFO - Starting the application.
+2024-11-01 02:39:18,307 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-01 02:39:21,541 - root - WARNING - You have entered an unknown command: ad
+2024-11-01 02:39:28,605 - root - ERROR - ERROR:could not convert string to float: 'de'
+2024-11-01 02:39:42,795 - root - INFO - Mulitplication command activated[3, 4]: Result = 12.0 
+2024-11-01 02:39:46,727 - root - ERROR - ERROR:could not convert string to float: '4e'
+2024-11-01 02:39:51,338 - root - ERROR - ERROR:could not convert string to float: 'five'
+2024-11-01 02:43:58,191 - root - INFO - Starting the application.
+2024-11-01 02:44:04,716 - root - ERROR - ERROR Cannot divide by zero:[5, 0]
+2024-11-01 03:01:15,250 - root - INFO - Starting the application.
+2024-11-01 03:01:18,517 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-01 03:01:23,594 - root - INFO - Mulitplication command activated[4, 5]: Result = 20.0 
+2024-11-01 03:01:27,082 - root - ERROR - ERROR:could not convert string to float: 'o'
+2024-11-01 03:01:31,323 - root - ERROR - ERROR Cannot divide by zero:[4, 0]
+2024-11-01 03:01:35,415 - root - INFO - Division command activated[0, 4]: Result = 0.0 
+2024-11-01 03:04:56,318 - root - INFO - Starting the application.
+2024-11-01 03:04:58,408 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-01 13:21:25,623 - root - INFO - Starting the application.
+2024-11-01 13:23:07,724 - root - WARNING - You have entered an unknown command: show_history
+2024-11-01 13:23:24,352 - root - WARNING - You have entered an unknown command: save_history
+2024-11-01 18:36:36,081 - root - INFO - Starting the application.
+2024-11-01 18:36:36,081 - root - INFO - Loading plugins...
+2024-11-01 18:36:40,531 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-01 18:36:45,766 - root - INFO - Mulitplication command activated[34, 4]: Result = 136.0 
+2024-11-01 18:36:48,904 - root - WARNING - You have entered an unknown command: div
+2024-11-01 18:36:52,138 - root - WARNING - You have entered an unknown command: sub
+2024-11-01 18:36:58,846 - root - ERROR - ERROR:could not convert string to float: 'e'
+2024-11-01 18:37:17,844 - root - WARNING - You have entered an unknown command: history
+2024-11-01 18:37:22,647 - root - WARNING - You have entered an unknown command: load
+2024-11-01 18:37:25,936 - root - WARNING - You have entered an unknown command: save
+2024-11-01 18:39:23,355 - root - ERROR - ERROR:'HistoryHandler' object has no attribute 'history'
+2024-11-01 18:39:31,323 - root - INFO - Calculation history cleared.
+2024-11-01 18:47:55,473 - root - ERROR - ERROR:'NoneType' object has no attribute 'empty'
+2024-11-02 13:16:48,505 - root - INFO - Starting the application.
+2024-11-02 13:16:48,505 - root - INFO - Loading plugins...
+2024-11-02 13:16:59,129 - root - ERROR - ERROR:'HistoryHandler' object has no attribute 'history'
+2024-11-02 13:21:11,632 - root - INFO - Starting the application.
+2024-11-02 13:21:11,632 - root - INFO - Loading plugins...
+2024-11-02 13:21:23,498 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 13:22:09,494 - root - INFO - Starting the application.
+2024-11-02 13:22:09,494 - root - INFO - Loading plugins...
+2024-11-02 13:22:17,869 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-02 13:22:20,963 - root - INFO - Mulitplication command activated[4, 2]: Result = 8.0 
+2024-11-02 13:22:28,563 - root - INFO - Division command activated[4, 4]: Result = 1.0 
+2024-11-02 13:22:34,583 - root - INFO - Subtracting command activated[3, 2]: Result = 1.0 
+2024-11-02 13:22:42,330 - root - WARNING - You have entered an unknown command: div
+2024-11-02 13:22:44,691 - root - WARNING - You have entered an unknown command: ad
+2024-11-02 13:22:46,747 - root - WARNING - You have entered an unknown command: mult
+2024-11-02 13:22:55,490 - root - ERROR - ERROR:could not convert string to float: 'e'
+2024-11-02 13:23:10,863 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 13:23:15,864 - root - ERROR - ERROR:'NoneType' object has no attribute 'empty'
+2024-11-02 13:38:35,583 - root - INFO - Starting the application.
+2024-11-02 13:38:35,583 - root - INFO - Loading plugins...
+2024-11-02 13:38:38,368 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-02 13:38:41,093 - root - INFO - Subtracting command activated[4, 5]: Result = -1.0 
+2024-11-02 13:38:43,833 - root - INFO - Mulitplication command activated[34, 5]: Result = 170.0 
+2024-11-02 13:38:46,804 - root - INFO - Division command activated[3, 4]: Result = 0.75 
+2024-11-02 13:38:55,174 - root - WARNING - You have entered an unknown command: div
+2024-11-02 13:38:57,269 - root - WARNING - You have entered an unknown command: mult
+2024-11-02 13:39:02,268 - root - ERROR - ERROR:could not convert string to float: 's'
+2024-11-02 13:39:14,830 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 13:39:19,049 - root - INFO - Showing calculation history.
+2024-11-02 13:39:59,951 - root - INFO - Starting the application.
+2024-11-02 13:39:59,951 - root - INFO - Loading plugins...
+2024-11-02 13:40:06,860 - root - INFO - Showing calculation history.
+2024-11-02 13:46:04,110 - root - INFO - Starting the application.
+2024-11-02 13:46:04,110 - root - INFO - Loading plugins...
+2024-11-02 13:46:06,879 - root - WARNING - You have entered an unknown command: load_histoy
+2024-11-02 13:46:10,424 - root - INFO - Showing calculation history.
+2024-11-02 13:46:36,536 - root - INFO - Starting the application.
+2024-11-02 13:46:36,537 - root - INFO - Loading plugins...
+2024-11-02 13:46:41,472 - root - INFO - Showing calculation history.
+2024-11-02 13:49:31,591 - root - INFO - Starting the application.
+2024-11-02 13:49:31,591 - root - INFO - Loading plugins...
+2024-11-02 13:49:36,766 - root - INFO - Calculation history cleared.
+2024-11-02 13:49:51,142 - root - INFO - Showing calculation history.
+2024-11-02 13:50:34,034 - root - INFO - Starting the application.
+2024-11-02 13:50:34,034 - root - INFO - Loading plugins...
+2024-11-02 13:50:40,090 - root - INFO - Showing calculation history.
+2024-11-02 13:50:48,680 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-02 13:50:52,905 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 13:51:05,170 - root - INFO - Showing calculation history.
+2024-11-02 13:51:13,895 - root - INFO - Calculation history cleared.
+2024-11-02 13:53:53,979 - root - INFO - Starting the application.
+2024-11-02 13:53:53,980 - root - INFO - Loading plugins...
+2024-11-02 13:53:56,449 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-02 13:54:02,502 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 13:54:07,315 - root - INFO - Displayed calculation history.
+2024-11-02 15:18:34,022 - root - WARNING - You have entered an unknown command: history
+2024-11-02 15:18:38,508 - root - INFO - Displayed calculation history.
+2024-11-02 15:18:43,614 - root - INFO - Calculation history cleared.
+2024-11-02 15:18:48,949 - root - WARNING - You have entered an unknown command: load_hisotory
+2024-11-02 15:18:54,186 - root - INFO - Displayed calculation history.
+2024-11-02 15:19:36,209 - root - ERROR - ERROR:could not convert string to float: '1o'
+2024-11-02 15:19:38,886 - root - INFO - Adding command activated[10, 3]: Result = 13.0 
+2024-11-02 15:19:52,936 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:19:59,192 - root - INFO - Displayed calculation history.
+2024-11-02 15:32:16,933 - root - INFO - Starting the application.
+2024-11-02 15:32:16,933 - root - INFO - Loading plugins...
+2024-11-02 15:32:20,455 - root - INFO - Adding command activated[23, 3]: Result = 26.0 
+2024-11-02 15:32:23,525 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:32:26,646 - root - WARNING - You have entered an unknown command: laod_history
+2024-11-02 15:32:31,121 - root - INFO - Displayed calculation history.
+2024-11-02 15:32:38,239 - root - INFO - Calculation history cleared.
+2024-11-02 15:32:44,214 - root - INFO - Displayed calculation history.
+2024-11-02 15:33:30,730 - root - INFO - Starting the application.
+2024-11-02 15:33:30,730 - root - INFO - Loading plugins...
+2024-11-02 15:33:32,856 - root - INFO - Adding command activated[10, 3]: Result = 13.0 
+2024-11-02 15:33:35,804 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:33:38,998 - root - INFO - Displayed calculation history.
+2024-11-02 15:33:44,356 - root - INFO - No history available to clear.
+2024-11-02 15:34:31,354 - root - INFO - Displayed calculation history.
+2024-11-02 15:35:01,630 - root - INFO - Adding command activated[10, 3]: Result = 13.0 
+2024-11-02 15:35:12,155 - root - INFO - No history available to clear.
+2024-11-02 15:35:19,680 - root - INFO - Adding command activated[3, 44]: Result = 47.0 
+2024-11-02 15:35:24,871 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:35:33,340 - root - INFO - Displayed calculation history.
+2024-11-02 15:35:37,710 - root - INFO - No history available to clear.
+2024-11-02 15:39:29,754 - root - ERROR - ERROR:could not convert string to float: 'e'
+2024-11-02 15:39:40,178 - root - ERROR - ERROR:could not convert string to float: 'three'
+2024-11-02 15:39:49,906 - root - WARNING - You have entered an unknown command: 23
+2024-11-02 15:39:54,138 - root - WARNING - You have entered an unknown command: 3
+2024-11-02 15:41:12,186 - root - WARNING - You have entered an unknown command: pytest
+2024-11-02 15:44:17,894 - root - INFO - Starting the application.
+2024-11-02 15:44:17,894 - root - INFO - Loading plugins...
+2024-11-02 15:44:20,307 - root - INFO - Adding command activated[10, 3]: Result = 13.0 
+2024-11-02 15:44:23,565 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:44:33,844 - root - INFO - Displayed calculation history.
+2024-11-02 15:45:25,256 - root - INFO - Calculation history cleared.
+2024-11-02 15:45:55,263 - root - INFO - No history available to clear.
+2024-11-02 15:46:09,618 - root - INFO - Starting the application.
+2024-11-02 15:46:09,618 - root - INFO - Loading plugins...
+2024-11-02 15:46:11,669 - root - INFO - Adding command activated[10, 3]: Result = 13.0 
+2024-11-02 15:46:22,308 - root - INFO - No history available to clear.
+2024-11-02 15:47:00,655 - root - INFO - Adding command activated[10, 3]: Result = 13.0 
+2024-11-02 15:47:06,431 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:47:10,821 - root - INFO - Displayed calculation history.
+2024-11-02 15:47:19,473 - root - INFO - No history available to clear.
+2024-11-02 15:50:07,009 - root - INFO - Starting the application.
+2024-11-02 15:50:07,009 - root - INFO - Loading plugins...
+2024-11-02 15:50:09,501 - root - INFO - Adding command activated[2, 3]: Result = 5.0 
+2024-11-02 15:50:15,482 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:50:22,268 - root - INFO - Displayed calculation history.
+2024-11-02 15:51:00,500 - root - INFO - Starting the application.
+2024-11-02 15:51:00,500 - root - INFO - Loading plugins...
+2024-11-02 15:51:02,420 - root - INFO - Adding command activated[2, 3]: Result = 5.0 
+2024-11-02 15:51:06,480 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:51:11,378 - root - INFO - Displayed calculation history.
+2024-11-02 15:52:27,457 - root - INFO - Starting the application.
+2024-11-02 15:52:27,457 - root - INFO - Loading plugins...
+2024-11-02 15:52:30,540 - root - INFO - Adding command activated[5, 654]: Result = 659.0 
+2024-11-02 15:52:35,244 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:52:38,438 - root - WARNING - You have entered an unknown command: load_histoy
+2024-11-02 15:52:42,828 - root - INFO - Displayed calculation history.
+2024-11-02 15:53:24,777 - root - INFO - Starting the application.
+2024-11-02 15:53:24,778 - root - INFO - Loading plugins...
+2024-11-02 15:53:27,741 - root - INFO - Adding command activated[4, 533223]: Result = 533227.0 
+2024-11-02 15:53:33,044 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:53:35,561 - root - INFO - Displayed calculation history.
+2024-11-02 15:54:21,012 - root - INFO - Starting the application.
+2024-11-02 15:54:21,012 - root - INFO - Loading plugins...
+2024-11-02 15:54:23,307 - root - INFO - Adding command activated[345, 32]: Result = 377.0 
+2024-11-02 15:54:28,868 - root - INFO - Displayed calculation history.
+2024-11-02 15:55:44,697 - root - INFO - Starting the application.
+2024-11-02 15:55:44,697 - root - INFO - Loading plugins...
+2024-11-02 15:55:46,439 - root - INFO - Adding command activated[34, 3]: Result = 37.0 
+2024-11-02 15:55:52,110 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:55:56,601 - root - INFO - Displayed calculation history.
+2024-11-02 15:56:42,424 - root - INFO - Starting the application.
+2024-11-02 15:56:42,424 - root - INFO - Loading plugins...
+2024-11-02 15:56:44,666 - root - INFO - Adding command activated[3, 2232]: Result = 2235.0 
+2024-11-02 15:56:57,571 - root - ERROR - ERROR:HistoryManager.save_history() takes 1 positional argument but 4 were given
+2024-11-02 15:57:28,426 - root - INFO - Starting the application.
+2024-11-02 15:57:28,426 - root - INFO - Loading plugins...
+2024-11-02 15:57:30,790 - root - INFO - Adding command activated[23, 43]: Result = 66.0 
+2024-11-02 15:57:38,224 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:57:42,676 - root - INFO - Displayed calculation history.
+2024-11-02 15:57:48,792 - root - INFO - Calculation history cleared.
+2024-11-02 15:58:01,237 - root - INFO - Displayed calculation history.
+2024-11-02 15:58:07,371 - root - INFO - No history available to clear.
+2024-11-02 15:58:14,874 - root - INFO - Displayed calculation history.
+2024-11-02 15:58:45,712 - root - INFO - Adding command activated[2, 3]: Result = 5.0 
+2024-11-02 15:58:51,732 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 15:59:02,819 - root - INFO - Displayed calculation history.
+2024-11-02 15:59:08,259 - root - INFO - No history available to clear.
+2024-11-02 16:17:18,272 - root - INFO - Starting the application.
+2024-11-02 16:17:18,272 - root - INFO - Loading plugins...
+2024-11-02 16:17:21,555 - root - INFO - Adding command activated[234, 3]: Result = 237.0 
+2024-11-02 16:17:27,409 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 16:17:40,435 - root - INFO - Showing calculation history.
+2024-11-02 16:29:34,317 - root - WARNING - You have entered an unknown command: pytest
+2024-11-02 16:29:47,691 - root - INFO - Starting the application.
+2024-11-02 16:29:47,691 - root - INFO - Loading plugins...
+2024-11-02 16:29:50,195 - root - INFO - Adding command activated[34, 5]: Result = 39.0 
+2024-11-02 16:29:52,739 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 16:30:04,455 - root - INFO - Showing calculation history.
+2024-11-02 16:37:14,749 - root - INFO - Starting the application.
+2024-11-02 16:37:14,750 - root - INFO - Loading plugins...
+2024-11-02 16:37:16,882 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-02 16:37:22,915 - root - INFO - Showing calculation history.
+2024-11-02 16:37:35,094 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-02 16:37:40,443 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 16:37:50,124 - root - INFO - Showing calculation history.
+2024-11-02 16:37:56,629 - root - INFO - Calculation history cleared.
+2024-11-02 16:38:02,444 - root - INFO - No history available to load.
+2024-11-02 16:38:16,800 - root - INFO - Mulitplication command activated[345, 5432]: Result = 1874040.0 
+2024-11-02 16:38:25,505 - root - INFO - Adding command activated[32424, 2342342]: Result = 2374766.0 
+2024-11-02 16:38:31,391 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 16:38:35,482 - root - INFO - Showing calculation history.
+2024-11-02 16:38:46,161 - root - INFO - No history available to clear.
+2024-11-02 16:38:56,494 - root - INFO - Showing calculation history.
+2024-11-02 16:39:03,300 - root - INFO - No history available to clear.
+2024-11-02 16:39:13,310 - root - INFO - Adding command activated[233, 33]: Result = 266.0 
+2024-11-02 16:39:17,881 - root - INFO - No history available to clear.
+2024-11-02 16:39:22,654 - root - INFO - Adding command activated[334, 32]: Result = 366.0 
+2024-11-02 16:39:25,495 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 16:39:29,282 - root - INFO - No history available to clear.
+2024-11-02 16:41:22,306 - root - INFO - Starting the application.
+2024-11-02 16:41:22,306 - root - INFO - Loading plugins...
+2024-11-02 16:41:25,220 - root - INFO - Adding command activated[3, 3]: Result = 6.0 
+2024-11-02 16:41:28,626 - root - INFO - Showing calculation history.
+2024-11-02 16:41:33,743 - root - INFO - Calculation history cleared.
+2024-11-02 16:41:40,118 - root - INFO - No history available to load.
+2024-11-02 16:41:47,325 - root - INFO - Mulitplication command activated[3, 4]: Result = 12.0 
+2024-11-02 16:41:53,473 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 16:42:02,890 - root - INFO - Showing calculation history.
+2024-11-02 16:42:12,804 - root - INFO - No history available to clear.
+2024-11-02 16:46:53,731 - root - INFO - Starting the application.
+2024-11-02 16:46:53,732 - root - INFO - Loading plugins...
+2024-11-02 16:46:56,046 - root - INFO - Adding command activated[10, 3]: Result = 13.0 
+2024-11-02 16:46:59,697 - root - ERROR - ERROR:HistoryHandler.save_history() missing 3 required positional arguments: 'command', 'args', and 'result'
+2024-11-02 16:51:59,407 - root - WARNING - You have entered an unknown command: pytest
+2024-11-02 16:57:11,455 - root - INFO - Starting the application.
+2024-11-02 16:57:11,456 - root - INFO - Loading plugins...
+2024-11-02 16:57:13,855 - root - INFO - Adding command activated[334, 3]: Result = 337.0 
+2024-11-02 16:57:18,098 - root - INFO - Showing calculation history.
+2024-11-02 16:57:24,110 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 16:57:30,787 - root - INFO - Showing calculation history.
+2024-11-02 16:57:35,034 - root - INFO - Calculation history cleared.
+2024-11-02 16:57:38,995 - root - INFO - No history available to load.
+2024-11-02 17:00:59,386 - root - INFO - Starting the application.
+2024-11-02 17:00:59,387 - root - INFO - Loading plugins...
+2024-11-02 17:01:01,462 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-02 17:01:05,383 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 17:01:41,708 - root - INFO - Starting the application.
+2024-11-02 17:01:41,708 - root - INFO - Loading plugins...
+2024-11-02 17:01:43,683 - root - INFO - Adding command activated[2, 3]: Result = 5.0 
+2024-11-02 17:01:46,356 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 17:02:14,495 - root - INFO - Showing calculation history.
+2024-11-02 17:03:02,152 - root - INFO - Starting the application.
+2024-11-02 17:03:02,152 - root - INFO - Loading plugins...
+2024-11-02 17:03:04,912 - root - INFO - Adding command activated[2, 3]: Result = 5.0 
+2024-11-02 17:03:08,201 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 17:03:14,040 - root - INFO - Showing calculation history.
+2024-11-02 17:05:25,616 - root - INFO - Calculation history cleared.
+2024-11-02 17:05:29,833 - root - INFO - No history available to load.
+2024-11-02 17:18:18,292 - root - INFO - Starting the application.
+2024-11-02 17:18:18,293 - root - INFO - Loading plugins...
+2024-11-02 17:18:20,223 - root - INFO - Adding command activated[10, 3]: Result = 13.0 
+2024-11-02 17:18:24,880 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 17:18:31,705 - root - INFO - Showing calculation history.
+2024-11-02 17:28:47,993 - root - INFO - Starting the application.
+2024-11-02 17:28:47,993 - root - INFO - Loading plugins...
+2024-11-02 17:28:49,883 - root - INFO - Adding command activated[1, 2]: Result = 3.0 
+2024-11-02 17:28:53,152 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 17:28:58,350 - root - INFO - Showing calculation history.
+2024-11-02 17:29:36,175 - root - INFO - Calculation history cleared.
+2024-11-02 17:29:44,685 - root - INFO - Mulitplication command activated[3, 2]: Result = 6.0 
+2024-11-02 18:34:12,169 - root - INFO - Starting the application.
+2024-11-02 18:34:12,170 - root - INFO - Loading plugins...
+2024-11-02 18:34:14,786 - root - INFO - Adding command activated[10, 3]: Result = 13.0 
+2024-11-02 18:34:57,280 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 18:35:09,883 - root - INFO - Showing calculation history.
+2024-11-02 18:52:32,544 - root - INFO - Starting the application.
+2024-11-02 18:52:32,545 - root - INFO - Loading plugins...
+2024-11-02 18:52:35,823 - root - INFO - Adding command activated[10, 2]: Result = 12.0 
+2024-11-02 18:52:39,121 - root - WARNING - You have entered an unknown command: save_histor
+2024-11-02 18:52:42,200 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 18:52:54,583 - root - INFO - Showing calculation history.
+2024-11-02 18:56:08,930 - root - INFO - Calculation history cleared.
+2024-11-02 18:57:18,459 - root - INFO - Starting the application.
+2024-11-02 18:57:18,459 - root - INFO - Loading plugins...
+2024-11-02 18:57:20,815 - root - INFO - Adding command activated[10, 3]: Result = 13.0 
+2024-11-02 18:57:29,910 - root - WARNING - You have entered an unknown command: save_hsitory
+2024-11-02 18:57:35,276 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 18:58:02,661 - root - INFO - Showing calculation history.
+2024-11-02 18:58:41,757 - root - INFO - Starting the application.
+2024-11-02 18:58:41,757 - root - INFO - Loading plugins...
+2024-11-02 18:58:44,348 - root - INFO - Adding command activated[10, 554343434]: Result = 554343444.0 
+2024-11-02 18:58:50,505 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 18:59:04,135 - root - INFO - Showing calculation history.
+2024-11-02 18:59:19,640 - root - INFO - Calculation history cleared.
+2024-11-02 18:59:46,363 - root - INFO - No history available to load.
+2024-11-02 19:00:09,781 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 19:00:16,913 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 19:00:26,057 - root - INFO - Showing calculation history.
+2024-11-02 19:00:31,246 - root - INFO - No history available to clear.
+2024-11-02 19:00:46,572 - root - INFO - Adding command activated[45, 37]: Result = 82.0 
+2024-11-02 19:00:50,553 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 19:00:54,878 - root - INFO - No history available to clear.
+2024-11-02 19:00:59,485 - root - INFO - Showing calculation history.
+2024-11-02 19:01:06,195 - root - INFO - No history available to clear.
+2024-11-02 19:22:47,892 - root - INFO - Starting the application.
+2024-11-02 19:22:47,892 - root - INFO - Loading plugins...
+2024-11-02 19:22:51,980 - root - INFO - Adding command activated[10, 33264]: Result = 33274.0 
+2024-11-02 19:22:55,434 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 19:23:00,063 - root - INFO - Showing calculation history.
+2024-11-02 19:23:05,149 - root - INFO - Calculation history cleared.
+2024-11-02 19:23:09,862 - root - INFO - No history available to clear.
+2024-11-02 19:28:54,922 - root - INFO - Starting the application.
+2024-11-02 19:28:54,922 - root - INFO - Loading plugins...
+2024-11-02 19:28:56,537 - root - WARNING - You have entered an unknown command: menu
+2024-11-02 19:30:25,273 - root - INFO - Starting the application.
+2024-11-02 19:30:25,273 - root - INFO - Loading plugins...
+2024-11-02 19:30:27,191 - root - WARNING - You have entered an unknown command: menu
+2024-11-02 19:36:25,583 - root - INFO - Starting the application.
+2024-11-02 19:36:25,583 - root - INFO - Loading plugins...
+2024-11-02 19:36:27,920 - root - WARNING - You have entered an unknown command: menu
+2024-11-02 19:49:44,406 - root - INFO - Starting the application.
+2024-11-02 19:49:44,407 - root - INFO - Loading plugins...
+2024-11-02 19:49:47,909 - root - ERROR - ERROR:'MenuCommand' object has no attribute 'handler'
+2024-11-02 19:53:23,384 - root - WARNING - You have entered an unknown command: pytest
+2024-11-02 20:19:14,769 - root - INFO - Starting the application.
+2024-11-02 20:21:56,593 - root - INFO - Starting the application.
+2024-11-02 20:21:56,593 - root - INFO - Loading plugins...
+2024-11-02 20:21:56,602 - root - ERROR - Failed to load plugin: MenuCommand.__init__() missing 1 required positional argument: 'command_handler'
+2024-11-02 20:23:17,909 - root - INFO - Starting the application.
+2024-11-02 20:23:17,909 - root - INFO - Loading plugins...
+2024-11-02 20:31:17,359 - root - INFO - Starting the application.
+2024-11-02 20:31:17,360 - root - INFO - Loading plugins...
+2024-11-02 20:31:19,582 - root - WARNING - You have entered an unknown command: add
+2024-11-02 20:31:23,177 - root - WARNING - You have entered an unknown command: add
+2024-11-02 20:31:29,544 - root - WARNING - You have entered an unknown command: add
+2024-11-02 20:31:35,292 - root - WARNING - You have entered an unknown command: multiply
+2024-11-02 20:35:24,256 - root - INFO - Starting the application.
+2024-11-02 20:35:24,256 - root - INFO - Loading plugins...
+2024-11-02 20:35:26,284 - root - WARNING - You have entered an unknown command: add
+2024-11-02 20:36:07,334 - root - INFO - Starting the application.
+2024-11-02 20:36:07,334 - root - INFO - Loading plugins...
+2024-11-02 20:36:09,042 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-02 20:36:15,226 - root - ERROR - ERROR:type object 'CommandHandler' has no attribute 'commands'
+2024-11-02 20:37:08,866 - root - INFO - Starting the application.
+2024-11-02 20:37:08,866 - root - INFO - Loading plugins...
+2024-11-02 20:37:11,037 - root - INFO - Adding command activated[33, 4]: Result = 37.0 
+2024-11-02 20:37:13,239 - root - ERROR - ERROR:type object 'CommandHandler' has no attribute 'commands'
+2024-11-02 20:44:14,229 - root - INFO - Starting the application.
+2024-11-02 20:44:14,229 - root - INFO - Loading plugins...
+2024-11-02 20:44:16,201 - root - ERROR - ERROR:type object 'CommandHandler' has no attribute 'commands'
+2024-11-02 20:48:42,595 - root - INFO - Starting the application.
+2024-11-02 20:48:42,595 - root - INFO - Loading plugins...
+2024-11-02 20:48:44,196 - root - ERROR - ERROR:type object 'CommandHandler' has no attribute 'commands'
+2024-11-02 20:50:42,171 - root - INFO - Starting the application.
+2024-11-02 20:50:42,171 - root - INFO - Loading plugins...
+2024-11-02 20:51:55,703 - root - INFO - Adding command activated[10, 3]: Result = 13.0 
+2024-11-02 20:52:01,301 - root - INFO - Menu command activated.
+2024-11-02 20:52:04,017 - root - ERROR - ERROR Cannot divide by zero:[3, 0]
+2024-11-02 20:52:09,197 - root - WARNING - You have entered an unknown command: divife
+2024-11-02 20:52:12,737 - root - INFO - Division command activated[34, 4]: Result = 8.5 
+2024-11-02 20:52:18,442 - root - INFO - Subtracting command activated[34, 4]: Result = 30.0 
+2024-11-02 20:52:25,131 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 20:52:30,282 - root - INFO - Showing calculation history.
+2024-11-02 20:52:41,131 - root - INFO - Calculation history cleared.
+2024-11-02 20:55:11,188 - root - INFO - Starting the application.
+2024-11-02 20:55:11,188 - root - INFO - Loading plugins...
+2024-11-02 20:55:21,691 - root - INFO - Adding command activated[2, 3]: Result = 5.0 
+2024-11-02 20:55:24,370 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 20:55:35,447 - root - INFO - Showing calculation history.
+2024-11-02 21:06:40,383 - root - INFO - Starting the application.
+2024-11-02 21:06:40,388 - root - INFO - Loading plugins...
+2024-11-02 21:06:43,218 - root - INFO - Adding command activated[20, 23]: Result = 43.0 
+2024-11-02 21:06:49,261 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 21:06:54,821 - root - INFO - Showing calculation history.
+2024-11-02 21:11:55,694 - root - INFO - Starting the application.
+2024-11-02 21:15:44,597 - root - INFO - Starting the application.
+2024-11-02 21:15:44,605 - root - INFO - Loading plugins...
+2024-11-02 21:16:05,651 - root - INFO - Starting the application.
+2024-11-02 21:16:05,658 - root - INFO - Loading plugins...
+2024-11-02 21:17:19,138 - root - INFO - Starting the application.
+2024-11-02 21:17:19,146 - root - INFO - Loading plugins...
+2024-11-02 21:17:36,614 - root - INFO - Adding command activated[34, 4]: Result = 38.0 
+2024-11-02 21:17:40,366 - root - INFO - Menu command activated.
+2024-11-02 21:17:44,080 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 21:17:48,991 - root - INFO - Showing calculation history.
+2024-11-02 21:17:54,722 - root - INFO - Calculation history cleared.
+2024-11-02 21:17:59,860 - root - INFO - Adding command activated[23, 42]: Result = 65.0 
+2024-11-02 21:18:05,155 - root - INFO - Division command activated[23, 23]: Result = 1.0 
+2024-11-02 21:18:10,057 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-02 21:18:13,718 - root - INFO - Showing calculation history.
+2024-11-03 13:53:48,624 - root - INFO - Starting the application.
+2024-11-03 13:53:48,631 - root - INFO - Loading plugins...
+2024-11-03 14:10:19,631 - root - INFO - Adding command activated[2, 23]: Result = 25.0 
+2024-11-03 14:10:26,111 - root - INFO - Menu command activated.
+2024-11-03 14:10:33,682 - root - INFO - Showing calculation history.
+2024-11-03 14:10:38,786 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 14:10:42,840 - root - INFO - Showing calculation history.
+2024-11-03 14:10:49,039 - root - INFO - Calculation history cleared.
+2024-11-03 14:10:52,312 - root - INFO - No history available to load.
+2024-11-03 14:30:28,314 - root - INFO - Starting the application.
+2024-11-03 14:30:28,323 - root - INFO - Loading plugins...
+2024-11-03 14:30:32,875 - root - INFO - Adding command activated[2, 3]: Result = 5.0 
+2024-11-03 14:30:35,319 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 14:30:38,289 - root - INFO - Showing calculation history.
+2024-11-03 14:33:56,824 - root - INFO - Starting the application.
+2024-11-03 14:33:56,829 - root - INFO - Loading plugins...
+2024-11-03 14:34:01,813 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 14:34:11,141 - root - WARNING - You have entered an unknown command: 10
+2024-11-03 14:34:12,866 - root - ERROR - ERROR:AddCommand.execute() missing 2 required positional arguments: 'a' and 'b'
+2024-11-03 14:34:15,146 - root - INFO - Adding command activated[2, 3]: Result = 5.0 
+2024-11-03 14:34:20,613 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 14:36:41,536 - root - INFO - Showing calculation history.
+2024-11-03 14:39:42,985 - root - INFO - Starting the application.
+2024-11-03 14:39:42,991 - root - INFO - Loading plugins...
+2024-11-03 14:39:49,297 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 14:39:52,340 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 14:40:01,469 - root - INFO - Showing calculation history.
+2024-11-03 14:40:38,776 - root - INFO - Starting the application.
+2024-11-03 14:40:38,783 - root - INFO - Loading plugins...
+2024-11-03 14:40:40,916 - root - INFO - Adding command activated[2, 3]: Result = 5.0 
+2024-11-03 14:40:44,994 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 14:40:48,534 - root - INFO - Displaying calculation history.
+2024-11-03 15:51:08,277 - root - INFO - Starting the application.
+2024-11-03 15:51:08,284 - root - INFO - Loading plugins...
+2024-11-03 15:51:10,912 - root - INFO - Adding command activated[23, 4]: Result = 27.0 
+2024-11-03 15:51:14,173 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 15:51:18,634 - root - INFO - Displaying calculation history.
+2024-11-03 15:59:08,798 - root - INFO - Starting the application.
+2024-11-03 15:59:08,804 - root - INFO - Loading plugins...
+2024-11-03 15:59:11,244 - root - INFO - Adding command activated[3, 34]: Result = 37.0 
+2024-11-03 15:59:14,040 - root - ERROR - ERROR:MultCommand.execute() missing 1 required positional argument: 'b'
+2024-11-03 15:59:23,096 - root - ERROR - ERROR:DivCommand.execute() missing 1 required positional argument: 'b'
+2024-11-03 15:59:32,872 - root - INFO - Division command activated[2, 33]: Result = 0.06060606060606061 
+2024-11-03 15:59:40,735 - root - INFO - Menu command activated.
+2024-11-03 15:59:48,236 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 16:00:07,578 - root - INFO - Displaying calculation history.
+2024-11-03 16:00:14,925 - root - INFO - Calculation history cleared.
+2024-11-03 16:00:40,907 - root - INFO - Starting the application.
+2024-11-03 16:00:40,913 - root - INFO - Loading plugins...
+2024-11-03 16:00:43,321 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 16:00:49,306 - root - INFO - Menu command activated.
+2024-11-03 16:00:52,608 - root - INFO - Division command activated[34, 43]: Result = 0.7906976744186046 
+2024-11-03 16:00:57,162 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 16:01:13,944 - root - INFO - Displaying calculation history.
+2024-11-03 16:04:55,697 - root - INFO - Starting the application.
+2024-11-03 16:04:55,703 - root - INFO - Loading plugins...
+2024-11-03 16:05:42,955 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 16:05:46,637 - root - ERROR - ERROR:MultCommand.execute() missing 1 required positional argument: 'b'
+2024-11-03 16:05:51,505 - root - WARNING - You have entered an unknown command: mulitply
+2024-11-03 16:05:57,494 - root - INFO - Menu command activated.
+2024-11-03 16:06:01,638 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 16:06:08,761 - root - INFO - Displaying calculation history.
+2024-11-03 16:06:13,950 - root - INFO - Calculation history cleared.
+2024-11-03 16:06:20,320 - root - INFO - Displaying calculation history.
+2024-11-03 16:06:39,925 - root - INFO - No history available to clear.
+2024-11-03 16:06:45,944 - root - INFO - Displaying calculation history.
+2024-11-03 16:15:00,848 - root - INFO - Starting the application.
+2024-11-03 16:15:00,854 - root - INFO - Loading plugins...
+2024-11-03 16:15:03,322 - root - INFO - Adding command activated[3, 34]: Result = 37.0 
+2024-11-03 16:15:07,767 - root - INFO - Menu command activated.
+2024-11-03 16:15:11,934 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 16:15:16,306 - root - INFO - Displaying calculation history.
+2024-11-03 16:15:36,442 - root - INFO - Calculation history cleared.
+2024-11-03 16:15:40,267 - root - INFO - Displaying calculation history.
+2024-11-03 16:18:42,383 - root - INFO - Starting the application.
+2024-11-03 16:18:42,389 - root - INFO - Loading plugins...
+2024-11-03 16:18:44,989 - root - INFO - Adding command activated[3, 42]: Result = 45.0 
+2024-11-03 16:18:50,181 - root - INFO - Menu command activated.
+2024-11-03 16:18:53,664 - root - INFO - Division command activated[3, 4]: Result = 0.75 
+2024-11-03 16:18:56,823 - root - INFO - Subtracting command activated[3, 3]: Result = 0.0 
+2024-11-03 16:19:01,450 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 16:19:10,497 - root - INFO - No history available to load.
+2024-11-03 16:19:27,176 - root - INFO - Menu command activated.
+2024-11-03 16:19:31,484 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 16:19:34,561 - root - INFO - No history available to load.
+2024-11-03 16:19:47,713 - root - INFO - No history available to clear.
+2024-11-03 16:19:54,438 - root - INFO - No history available to load.
+2024-11-03 16:19:58,666 - root - INFO - Adding command activated[33, 3]: Result = 36.0 
+2024-11-03 16:20:01,583 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 16:20:04,091 - root - INFO - No history available to load.
+2024-11-03 16:20:19,628 - root - INFO - Starting the application.
+2024-11-03 16:20:19,635 - root - INFO - Loading plugins...
+2024-11-03 16:20:23,822 - root - INFO - Displaying calculation history.
+2024-11-03 16:20:32,205 - root - INFO - Adding command activated[3, 4323]: Result = 4326.0 
+2024-11-03 16:20:35,270 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 16:20:38,156 - root - INFO - Displaying calculation history.
+2024-11-03 16:48:43,325 - root - INFO - Calculation history cleared.
+2024-11-03 16:48:49,260 - root - INFO - No history available to clear.
+2024-11-03 16:48:54,676 - root - INFO - Displaying calculation history.
+2024-11-03 16:51:47,061 - root - INFO - Starting the application.
+2024-11-03 16:51:47,067 - root - INFO - Loading plugins...
+2024-11-03 16:51:48,875 - root - INFO - Adding command activated[2, 3]: Result = 5.0 
+2024-11-03 16:51:52,021 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 16:51:57,117 - root - INFO - Displaying calculation history.
+2024-11-03 16:52:50,039 - root - INFO - Calculation history cleared.
+2024-11-03 16:52:52,723 - root - INFO - Displaying calculation history.
+2024-11-03 16:52:59,547 - root - WARNING - You have entered an unknown command: history_clear
+2024-11-03 16:53:01,834 - root - INFO - No history available to clear.
+2024-11-03 16:53:06,888 - root - INFO - Displaying calculation history.
+2024-11-03 16:53:15,469 - root - INFO - Adding command activated[3, 45]: Result = 48.0 
+2024-11-03 16:53:19,334 - root - INFO - Menu command activated.
+2024-11-03 16:53:26,782 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 16:53:32,198 - root - INFO - Displaying calculation history.
+2024-11-03 16:57:37,148 - root - INFO - Starting the application.
+2024-11-03 16:57:37,155 - root - INFO - Loading plugins...
+2024-11-03 16:57:39,051 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 16:57:41,939 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 16:57:44,811 - root - INFO - Displaying calculation history.
+2024-11-03 16:57:49,856 - root - INFO - Calculation history cleared.
+2024-11-03 16:57:53,268 - root - INFO - Displaying calculation history.
+2024-11-03 17:00:25,465 - root - INFO - Starting the application.
+2024-11-03 17:00:25,470 - root - INFO - Loading plugins...
+2024-11-03 17:00:28,667 - root - INFO - Displaying calculation history.
+2024-11-03 17:00:33,199 - root - INFO - Calculation history cleared.
+2024-11-03 17:00:36,148 - root - WARNING - You have entered an unknown command: load_histoy
+2024-11-03 17:00:38,744 - root - INFO - Displaying calculation history.
+2024-11-03 17:00:58,412 - root - INFO - Starting the application.
+2024-11-03 17:00:58,418 - root - INFO - Loading plugins...
+2024-11-03 17:01:01,536 - root - INFO - Displaying calculation history.
+2024-11-03 17:01:11,589 - root - INFO - Displaying calculation history.
+2024-11-03 17:01:42,879 - root - INFO - Starting the application.
+2024-11-03 17:01:42,884 - root - INFO - Loading plugins...
+2024-11-03 17:01:45,171 - root - INFO - Displaying calculation history.
+2024-11-03 17:01:48,027 - root - INFO - Calculation history cleared.
+2024-11-03 17:01:54,314 - root - INFO - No history available to clear.
+2024-11-03 17:12:33,755 - root - INFO - Starting the application.
+2024-11-03 17:12:33,762 - root - INFO - Loading plugins...
+2024-11-03 17:12:37,958 - root - INFO - Displaying calculation history.
+2024-11-03 17:13:10,139 - root - INFO - Starting the application.
+2024-11-03 17:13:10,145 - root - INFO - Loading plugins...
+2024-11-03 17:13:12,691 - root - INFO - Displaying calculation history.
+2024-11-03 17:13:34,091 - root - INFO - Calculation history cleared.
+2024-11-03 17:13:38,882 - root - INFO - Displaying calculation history.
+2024-11-03 17:16:03,618 - root - INFO - No history available to clear.
+2024-11-03 17:16:12,476 - root - INFO - Displaying calculation history.
+2024-11-03 17:18:02,547 - root - INFO - Starting the application.
+2024-11-03 17:18:02,554 - root - INFO - Loading plugins...
+2024-11-03 17:18:11,710 - root - INFO - Calculation history cleared.
+2024-11-03 17:18:25,336 - root - INFO - Displaying calculation history.
+2024-11-03 17:18:28,760 - root - INFO - No history available to clear.
+2024-11-03 17:18:37,722 - root - INFO - Displaying calculation history.
+2024-11-03 17:25:53,296 - root - INFO - Starting the application.
+2024-11-03 17:25:53,331 - root - INFO - Loading plugins...
+2024-11-03 17:28:53,693 - root - INFO - Starting the application.
+2024-11-03 17:28:53,711 - root - INFO - Loading plugins...
+2024-11-03 17:29:17,332 - root - INFO - Starting the application.
+2024-11-03 17:29:17,368 - root - INFO - Loading plugins...
+2024-11-03 17:30:13,630 - root - INFO - Starting the application.
+2024-11-03 17:30:13,636 - root - INFO - Loading plugins...
+2024-11-03 17:30:18,284 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 17:30:22,658 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 17:30:27,613 - root - INFO - Displaying calculation history.
+2024-11-03 17:30:31,988 - root - INFO - Calculation history cleared.
+2024-11-03 17:30:47,590 - root - INFO - No history available to clear.
+2024-11-03 17:30:54,833 - root - INFO - Displaying calculation history.
+2024-11-03 17:39:56,921 - root - INFO - Starting the application.
+2024-11-03 17:39:56,929 - root - INFO - Loading plugins...
+2024-11-03 17:39:58,788 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 17:40:01,757 - root - INFO - Division command activated[34, 5]: Result = 6.8 
+2024-11-03 17:40:05,072 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 17:40:07,663 - root - INFO - Displaying calculation history.
+2024-11-03 17:40:12,708 - root - INFO - Calculation history cleared.
+2024-11-03 17:40:16,432 - root - INFO - No history available to clear.
+2024-11-03 17:40:35,580 - root - INFO - Displaying calculation history.
+2024-11-03 17:41:54,134 - root - INFO - Starting the application.
+2024-11-03 17:41:54,138 - root - INFO - Loading plugins...
+2024-11-03 17:41:56,130 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 17:42:02,295 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 17:42:06,770 - root - INFO - No history available to load.
+2024-11-03 17:42:22,924 - root - INFO - No history available to clear.
+2024-11-03 17:43:09,316 - root - INFO - Starting the application.
+2024-11-03 17:43:09,322 - root - INFO - Loading plugins...
+2024-11-03 17:43:11,245 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 17:43:14,193 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 17:43:18,565 - root - INFO - Displaying calculation history.
+2024-11-03 17:43:26,642 - root - INFO - Calculation history cleared.
+2024-11-03 17:44:43,158 - root - INFO - Starting the application.
+2024-11-03 17:44:43,162 - root - INFO - Loading plugins...
+2024-11-03 17:44:44,926 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 17:44:49,441 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 17:44:53,098 - root - INFO - No history available to load.
+2024-11-03 17:44:57,909 - root - ERROR - ERROR:'HistoryFacade' object has no attribute 'history'
+2024-11-03 17:48:09,229 - root - INFO - Starting the application.
+2024-11-03 17:48:09,236 - root - INFO - Loading plugins...
+2024-11-03 17:48:10,924 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 17:48:14,645 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 17:48:17,984 - root - INFO - Displaying calculation history.
+2024-11-03 17:48:22,049 - root - INFO - Calculation history cleared.
+2024-11-03 17:48:22,049 - root - ERROR - ERROR:'HistoryFacade' object has no attribute 'history'
+2024-11-03 17:49:00,540 - root - INFO - No history available to clear.
+2024-11-03 17:49:00,541 - root - ERROR - ERROR:'HistoryFacade' object has no attribute 'history'
+2024-11-03 17:52:04,608 - root - INFO - Starting the application.
+2024-11-03 17:52:04,612 - root - INFO - Loading plugins...
+2024-11-03 17:52:06,743 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 17:52:09,109 - root - ERROR - ERROR:'HistoryManager' object has no attribute 'add_record'
+2024-11-03 17:52:36,906 - root - INFO - No history available to load.
+2024-11-03 17:52:40,902 - root - INFO - No history available to clear.
+2024-11-03 17:54:19,405 - root - INFO - Starting the application.
+2024-11-03 17:54:19,409 - root - INFO - Loading plugins...
+2024-11-03 17:54:21,837 - root - INFO - Adding command activated[34, 53]: Result = 87.0 
+2024-11-03 17:54:25,695 - root - ERROR - ERROR:HistoryHandler.save_history() missing 3 required positional arguments: 'command', 'args', and 'result'
+2024-11-03 17:59:54,378 - root - INFO - Starting the application.
+2024-11-03 17:59:54,381 - root - INFO - Loading plugins...
+2024-11-03 17:59:56,184 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 17:59:58,915 - root - ERROR - ERROR:HistoryHandler.save_history() missing 3 required positional arguments: 'command', 'args', and 'result'
+2024-11-03 18:00:33,666 - root - ERROR - ERROR:'NoneType' object has no attribute 'empty'
+2024-11-03 18:00:42,109 - root - ERROR - ERROR:HistoryHandler.save_history() missing 3 required positional arguments: 'command', 'args', and 'result'
+2024-11-03 18:00:45,782 - root - ERROR - ERROR:'NoneType' object has no attribute 'empty'
+2024-11-03 18:00:59,281 - root - INFO - Starting the application.
+2024-11-03 18:00:59,285 - root - INFO - Loading plugins...
+2024-11-03 18:01:01,214 - root - ERROR - ERROR:AddCommand.execute() missing 1 required positional argument: 'b'
+2024-11-03 18:01:04,302 - root - INFO - Adding command activated[4, 55]: Result = 59.0 
+2024-11-03 18:01:09,981 - root - ERROR - ERROR:HistoryHandler.save_history() missing 3 required positional arguments: 'command', 'args', and 'result'
+2024-11-03 18:01:13,841 - root - INFO - No history available to load.
+2024-11-03 18:01:17,368 - root - INFO - No history available to clear.
+2024-11-03 18:05:17,384 - root - INFO - Starting the application.
+2024-11-03 18:05:17,388 - root - INFO - Loading plugins...
+2024-11-03 18:05:20,343 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 18:05:22,834 - root - ERROR - ERROR:HistoryHandler.save_history() missing 3 required positional arguments: 'command', 'args', and 'result'
+2024-11-03 18:06:57,118 - root - INFO - Starting the application.
+2024-11-03 18:06:57,124 - root - INFO - Loading plugins...
+2024-11-03 18:07:02,185 - root - INFO - Adding command activated[5, 7]: Result = 12.0 
+2024-11-03 18:07:09,064 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 18:07:17,766 - root - INFO - Displaying calculation history.
+2024-11-03 18:07:25,253 - root - INFO - Calculation history cleared.
+2024-11-03 18:07:40,261 - root - INFO - Displaying calculation history.
+2024-11-03 18:07:50,390 - root - INFO - No history available to clear.
+2024-11-03 18:12:17,085 - root - WARNING - You have entered an unknown command: pytest
+2024-11-03 18:12:50,186 - root - INFO - Starting the application.
+2024-11-03 18:12:50,193 - root - INFO - Loading plugins...
+2024-11-03 18:12:55,377 - root - INFO - Subtracting command activated[3, 5]: Result = -2.0 
+2024-11-03 18:12:59,999 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 18:13:04,309 - root - INFO - Displaying calculation history.
+2024-11-03 18:13:23,437 - root - INFO - Menu command activated.
+2024-11-03 18:13:27,002 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 18:13:32,291 - root - INFO - Displaying calculation history.
+2024-11-03 18:14:40,728 - root - INFO - Starting the application.
+2024-11-03 18:14:40,735 - root - INFO - Loading plugins...
+2024-11-03 18:14:43,092 - root - INFO - Adding command activated[4, 5]: Result = 9.0 
+2024-11-03 18:14:46,536 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 18:14:52,757 - root - INFO - Displaying calculation history.
+2024-11-03 18:16:24,272 - root - INFO - Starting the application.
+2024-11-03 18:16:24,278 - root - INFO - Loading plugins...
+2024-11-03 18:16:26,986 - root - INFO - Adding command activated[5, 32]: Result = 37.0 
+2024-11-03 18:16:30,702 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 18:16:33,463 - root - INFO - Displaying calculation history.
+2024-11-03 18:16:41,048 - root - INFO - Calculation history cleared.
+2024-11-03 18:16:46,681 - root - INFO - Displaying calculation history.
+2024-11-03 18:16:52,383 - root - INFO - Displaying calculation history.
+2024-11-03 18:16:59,574 - root - INFO - No history available to clear.
+2024-11-03 18:25:21,396 - root - INFO - Starting the application.
+2024-11-03 18:25:21,402 - root - INFO - Loading plugins...
+2024-11-03 18:25:23,089 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 18:25:26,407 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 18:25:32,453 - root - INFO - Displaying calculation history.
+2024-11-03 18:25:39,281 - root - INFO - Calculation history cleared.
+2024-11-03 18:25:47,080 - root - WARNING - You have entered an unknown command: history_clear
+2024-11-03 18:25:52,780 - root - INFO - No history available to clear.
+2024-11-03 18:25:57,959 - root - INFO - Displaying calculation history.
+2024-11-03 18:26:48,553 - root - INFO - Adding command activated[2, 3]: Result = 5.0 
+2024-11-03 18:28:51,682 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 18:28:55,232 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 18:29:18,641 - root - INFO - Displaying calculation history.
+2024-11-03 18:29:32,428 - root - INFO - Adding command activated[59034, 42]: Result = 59076.0 
+2024-11-03 18:29:36,733 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 18:29:42,865 - root - INFO - Displaying calculation history.
+2024-11-03 18:38:46,119 - root - INFO - Starting the application.
+2024-11-03 18:38:46,127 - root - INFO - Loading plugins...
+2024-11-03 18:38:48,511 - root - INFO - Adding command activated[3, 53]: Result = 56.0 
+2024-11-03 18:38:53,888 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 18:38:57,127 - root - INFO - Displaying calculation history.
+2024-11-03 18:39:11,723 - root - INFO - Subtracting command activated[3, 4]: Result = -1.0 
+2024-11-03 18:39:17,292 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 18:39:20,155 - root - INFO - Displaying calculation history.
+2024-11-03 18:54:29,721 - root - INFO - Adding command activated[3, 45]: Result = 48.0 
+2024-11-03 18:54:34,557 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 19:28:59,369 - root - INFO - Starting the application.
+2024-11-03 19:28:59,376 - root - INFO - Loading plugins...
+2024-11-03 19:29:01,654 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 19:29:49,842 - root - INFO - Adding command activated[4545, 9]: Result = 4554.0 
+2024-11-03 19:30:21,150 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 19:30:27,970 - root - INFO - Displaying calculation history.
+2024-11-03 19:30:45,131 - root - INFO - Menu command activated.
+2024-11-03 19:30:52,144 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 19:30:54,740 - root - INFO - Displaying calculation history.
+2024-11-03 19:31:04,740 - root - INFO - Calculation history cleared.
+2024-11-03 19:31:17,800 - root - INFO - Calculation history cleared.
+2024-11-03 19:31:22,056 - root - INFO - Calculation history cleared.
+2024-11-03 19:31:25,337 - root - WARNING - You have entered an unknown command: clear_histor
+2024-11-03 19:34:26,348 - root - INFO - Starting the application.
+2024-11-03 19:34:26,356 - root - INFO - Loading plugins...
+2024-11-03 19:34:28,270 - root - INFO - Adding command activated[3, 45]: Result = 48.0 
+2024-11-03 19:34:31,585 - root - ERROR - ERROR:MultCommand.execute() missing 1 required positional argument: 'b'
+2024-11-03 19:34:35,769 - root - INFO - Menu command activated.
+2024-11-03 19:34:38,085 - root - INFO - Division command activated[3, 4]: Result = 0.75 
+2024-11-03 19:34:41,352 - root - INFO - Subtracting command activated[34, 5]: Result = 29.0 
+2024-11-03 19:34:47,325 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 19:34:49,926 - root - INFO - Displaying calculation history.
+2024-11-03 19:35:35,298 - root - INFO - Calculation history cleared.
+2024-11-03 19:35:48,545 - root - INFO - Calculation history cleared.
+2024-11-03 19:37:01,136 - root - INFO - Adding command activated[3, 45]: Result = 48.0 
+2024-11-03 19:37:15,952 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 19:37:19,393 - root - INFO - Displaying calculation history.
+2024-11-03 19:42:33,256 - root - INFO - Starting the application.
+2024-11-03 19:42:33,264 - root - INFO - Loading plugins...
+2024-11-03 19:42:35,392 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 19:42:38,660 - root - INFO - Menu command activated.
+2024-11-03 19:42:41,675 - root - INFO - Division command activated[4, 5]: Result = 0.8 
+2024-11-03 19:42:44,239 - root - INFO - Subtracting command activated[3, 4]: Result = -1.0 
+2024-11-03 19:43:05,818 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 19:43:23,527 - root - INFO - Displaying calculation history.
+2024-11-03 19:44:15,989 - root - INFO - Calculation history cleared.
+2024-11-03 19:44:26,759 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 19:44:30,621 - root - INFO - Calculation history cleared.
+2024-11-03 19:44:38,920 - root - INFO - Adding command activated[4, 3]: Result = 7.0 
+2024-11-03 19:44:41,660 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 19:44:44,332 - root - INFO - Displaying calculation history.
+2024-11-03 19:46:08,401 - root - INFO - Starting the application.
+2024-11-03 19:46:08,408 - root - INFO - Loading plugins...
+2024-11-03 19:46:10,169 - root - INFO - Adding command activated[3, 4]: Result = 7.0 
+2024-11-03 19:46:16,226 - root - INFO - Subtracting command activated[3, 4]: Result = -1.0 
+2024-11-03 19:46:19,731 - root - INFO - Menu command activated.
+2024-11-03 19:46:23,741 - root - INFO - Division command activated[3, 21]: Result = 0.14285714285714285 
+2024-11-03 19:46:28,460 - root - INFO - History saved successfully: (save_history, (), Result of the save operation)
+2024-11-03 19:46:34,470 - root - INFO - Displaying calculation history.
+2024-11-03 20:01:00,289 - root - INFO - Starting the application.
+2024-11-03 20:01:38,141 - root - INFO - Starting the application.
+2024-11-03 20:01:40,811 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:01:40,814 - root - INFO - History saved successfully: (add, (), 7.0)
+2024-11-03 20:02:42,502 - root - INFO - Starting the application.
+2024-11-03 20:10:53,438 - root - INFO - Starting the application.
+2024-11-03 20:11:08,282 - root - INFO - Adding command activated[2.0, 3.0]: Result = 5.0 
+2024-11-03 20:11:08,284 - root - INFO - History saved successfully: (add, (2.0, 3.0), None)
+2024-11-03 20:11:35,413 - root - INFO - Menu command activated.
+2024-11-03 20:11:35,416 - root - INFO - History saved successfully: (multiply, (3.0, 4.0), None)
+2024-11-03 20:11:52,163 - root - INFO - Displaying calculation history.
+2024-11-03 20:14:33,384 - root - INFO - Starting the application.
+2024-11-03 20:14:49,254 - root - INFO - Starting the application.
+2024-11-03 20:14:51,815 - root - INFO - Adding command activated[44.0, 5.0]: Result = 49.0 
+2024-11-03 20:15:05,132 - root - INFO - Displaying calculation history.
+2024-11-03 20:16:02,631 - root - INFO - Starting the application.
+2024-11-03 20:16:37,335 - root - INFO - Starting the application.
+2024-11-03 20:16:39,010 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:16:39,014 - root - INFO - History saved successfully: (add, (3.0, 4.0), None)
+2024-11-03 20:17:41,654 - root - INFO - Starting the application.
+2024-11-03 20:17:44,351 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:17:44,354 - root - INFO - History saved successfully: (add, (3.0, 4.0), None)
+2024-11-03 20:21:23,180 - root - INFO - Starting the application.
+2024-11-03 20:21:25,963 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:21:25,966 - root - INFO - History saved successfully: (add, (3.0, 4.0), None)
+2024-11-03 20:23:58,147 - root - INFO - Starting the application.
+2024-11-03 20:24:01,759 - root - INFO - Calculation history cleared.
+2024-11-03 20:24:12,746 - root - INFO - Starting the application.
+2024-11-03 20:24:45,771 - root - INFO - Starting the application.
+2024-11-03 20:24:47,939 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:24:47,941 - root - INFO - History saved successfully: (add, (3.0, 4.0), None)
+2024-11-03 20:25:01,652 - root - INFO - Displaying calculation history.
+2024-11-03 20:26:36,667 - root - INFO - Starting the application.
+2024-11-03 20:26:38,341 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:26:38,344 - root - INFO - History saved successfully: (add, (3.0, 4.0), None)
+2024-11-03 20:29:31,994 - root - INFO - Starting the application.
+2024-11-03 20:29:38,391 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:29:49,635 - root - INFO - Displaying calculation history.
+2024-11-03 20:30:04,397 - root - INFO - Menu command activated.
+2024-11-03 20:30:04,400 - root - INFO - History saved successfully: (multiply, (3.0, 4.0), None)
+2024-11-03 20:30:11,637 - root - INFO - Displaying calculation history.
+2024-11-03 20:32:00,587 - root - INFO - Starting the application.
+2024-11-03 20:32:02,039 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:32:11,423 - root - INFO - Displaying calculation history.
+2024-11-03 20:34:35,516 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:34:43,561 - root - INFO - Displaying calculation history.
+2024-11-03 20:36:31,147 - root - INFO - Starting the application.
+2024-11-03 20:36:33,415 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:36:33,419 - root - INFO - History saved successfully: (add, (3.0, 4.0), None)
+2024-11-03 20:38:50,329 - root - INFO - Starting the application.
+2024-11-03 20:38:52,095 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:38:52,099 - root - INFO - History saved successfully: (add, (3.0, 4.0), None)
+2024-11-03 20:41:56,246 - root - INFO - Starting the application.
+2024-11-03 20:42:00,739 - root - WARNING - You have entered an unknown command: add 3 4
+2024-11-03 20:42:00,742 - root - INFO - History saved successfully: (add 3 4, (3.0, 4.0), None)
+2024-11-03 20:44:00,573 - root - INFO - Starting the application.
+2024-11-03 20:44:02,332 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:44:02,335 - root - INFO - History saved successfully: (add, (3.0, 4.0), None)
+2024-11-03 20:47:44,933 - root - INFO - Starting the application.
+2024-11-03 20:47:46,477 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:47:46,481 - root - INFO - History saved successfully: (add, (3.0, 4.0), 7.0)
+2024-11-03 20:48:31,615 - root - INFO - Starting the application.
+2024-11-03 20:48:33,160 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:48:33,164 - root - INFO - History saved successfully: (add, (3.0, 4.0), 7.0)
+2024-11-03 20:48:41,811 - root - INFO - Displaying calculation history.
+2024-11-03 20:48:55,557 - root - INFO - Calculation history cleared.
+2024-11-03 20:49:01,566 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:49:01,569 - root - INFO - History saved successfully: (add, (3.0, 4.0), 7.0)
+2024-11-03 20:49:34,539 - root - INFO - Displaying calculation history.
+2024-11-03 20:50:20,402 - root - INFO - Starting the application.
+2024-11-03 20:50:25,192 - root - INFO - Subtracting command activated[3.0, 4.0]: Result = -1.0 
+2024-11-03 20:50:25,195 - root - INFO - History saved successfully: (subtract, (3.0, 4.0), -1.0)
+2024-11-03 20:51:27,308 - root - INFO - Starting the application.
+2024-11-03 20:51:28,959 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:51:28,962 - root - INFO - History saved successfully: (add, (3.0, 4.0), 7.0)
+2024-11-03 20:52:38,874 - root - INFO - Subtracting command activated[3.0, 4.0]: Result = -1.0 
+2024-11-03 20:52:38,880 - root - INFO - History saved successfully: (subtract, (3.0, 4.0), -1.0)
+2024-11-03 20:56:47,231 - root - INFO - Starting the application.
+2024-11-03 20:56:49,397 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:57:02,150 - root - INFO - Displaying calculation history.
+2024-11-03 20:57:11,000 - root - INFO - Calculation history cleared.
+2024-11-03 20:57:14,817 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:57:18,300 - root - INFO - Adding command activated[4.0, 5.0]: Result = 9.0 
+2024-11-03 20:57:56,674 - root - INFO - Starting the application.
+2024-11-03 20:57:58,284 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 20:58:04,024 - root - INFO - Adding command activated[34.0, 5.0]: Result = 39.0 
+2024-11-03 20:59:20,675 - root - INFO - Starting the application.
+2024-11-03 20:59:22,273 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:00:02,084 - root - INFO - Starting the application.
+2024-11-03 21:00:11,465 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:00:18,565 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:00:18,570 - root - INFO - History saved successfully: (add, (3.0, 4.0), 7.0)
+2024-11-03 21:00:18,570 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:00:18,572 - root - INFO - History saved successfully: (add, (3.0, 4.0), 7.0)
+2024-11-03 21:00:28,744 - root - INFO - Displaying calculation history.
+2024-11-03 21:00:35,651 - root - INFO - Calculation history cleared.
+2024-11-03 21:00:47,825 - root - INFO - Adding command activated[3.0, 2.0]: Result = 5.0 
+2024-11-03 21:00:54,831 - root - INFO - Adding command activated[3.0, 2.0]: Result = 5.0 
+2024-11-03 21:00:54,835 - root - INFO - History saved successfully: (add, (3.0, 2.0), 5.0)
+2024-11-03 21:00:54,835 - root - INFO - Adding command activated[3.0, 2.0]: Result = 5.0 
+2024-11-03 21:00:54,837 - root - INFO - History saved successfully: (add, (3.0, 2.0), 5.0)
+2024-11-03 21:00:58,430 - root - INFO - Displaying calculation history.
+2024-11-03 21:03:12,496 - root - INFO - Starting the application.
+2024-11-03 21:03:14,063 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:03:17,987 - root - INFO - History saved successfully: (add, [3.0, 4.0], 7.0)
+2024-11-03 21:03:24,869 - root - INFO - Displaying calculation history.
+2024-11-03 21:03:29,314 - root - INFO - Calculation history cleared.
+2024-11-03 21:03:38,742 - root - INFO - Calculation history cleared.
+2024-11-03 21:03:43,807 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:04:01,930 - root - INFO - Adding command activated[3.0, 555.0]: Result = 558.0 
+2024-11-03 21:04:05,712 - root - INFO - History saved successfully: (add, [3.0, 555.0], 558.0)
+2024-11-03 21:04:30,250 - root - INFO - Displaying calculation history.
+2024-11-03 21:04:41,124 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:04:46,461 - root - INFO - History saved successfully: (add, [3.0, 4.0], 7.0)
+2024-11-03 21:04:50,081 - root - INFO - Displaying calculation history.
+2024-11-03 21:07:45,050 - root - INFO - Starting the application.
+2024-11-03 21:07:46,892 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:07:51,539 - root - INFO - Displaying calculation history.
+2024-11-03 21:07:55,961 - root - INFO - Calculation history cleared.
+2024-11-03 21:07:59,051 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:08:03,015 - root - INFO - History saved successfully: (add, [3.0, 4.0], 7.0)
+2024-11-03 21:08:09,445 - root - INFO - Displaying calculation history.
+2024-11-03 21:08:23,823 - root - INFO - Adding command activated[5.0, 6655342.0]: Result = 6655347.0 
+2024-11-03 21:08:27,065 - root - INFO - Division command activated[34454.0, 5.0]: Result = 6890.8 
+2024-11-03 21:08:32,913 - root - INFO - Menu command activated.
+2024-11-03 21:08:37,613 - root - INFO - Subtracting command activated[3344.0, 4.0]: Result = 3340.0 
+2024-11-03 21:08:40,991 - root - INFO - History saved successfully: (subtract, [5.0, 6655342.0], 3340.0)
+2024-11-03 21:08:50,493 - root - INFO - Displaying calculation history.
+2024-11-03 21:10:19,575 - root - INFO - Starting the application.
+2024-11-03 21:10:23,562 - root - INFO - Adding command activated[333.0, 444.0]: Result = 777.0 
+2024-11-03 21:11:40,310 - root - INFO - Starting the application.
+2024-11-03 21:11:42,073 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:11:47,251 - root - INFO - History saved successfully: (add, (3.0, 4.0), 7.0)
+2024-11-03 21:11:53,486 - root - INFO - Displaying calculation history.
+2024-11-03 21:13:38,229 - root - INFO - Starting the application.
+2024-11-03 21:13:42,325 - root - INFO - Adding command activated[3.0, 455423.0]: Result = 455426.0 
+2024-11-03 21:13:47,530 - root - INFO - History saved successfully: (add, [3.0, 455423.0], 455426.0)
+2024-11-03 21:13:50,994 - root - INFO - Displaying calculation history.
+2024-11-03 21:13:54,621 - root - INFO - Calculation history cleared.
+2024-11-03 21:14:03,993 - root - INFO - Adding command activated[3.0, 4433.0]: Result = 4436.0 
+2024-11-03 21:14:08,001 - root - INFO - History saved successfully: (add, [3.0, 4433.0], 4436.0)
+2024-11-03 21:14:11,573 - root - INFO - Displaying calculation history.
+2024-11-03 21:17:41,960 - root - INFO - Starting the application.
+2024-11-03 21:17:45,779 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:17:50,605 - root - INFO - Subtracting command activated[3.0, 4.0]: Result = -1.0 
+2024-11-03 21:17:55,072 - root - INFO - History saved successfully: (subtract, [3.0, 4.0], -1.0)
+2024-11-03 21:18:24,451 - root - INFO - Starting the application.
+2024-11-03 21:18:26,943 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:18:30,446 - root - INFO - History saved successfully: (add, [3.0, 4.0], 7.0)
+2024-11-03 21:18:37,840 - root - INFO - Displaying calculation history.
+2024-11-03 21:18:41,089 - root - INFO - Calculation history cleared.
+2024-11-03 21:18:49,576 - root - INFO - Adding command activated[3.0, 55.0]: Result = 58.0 
+2024-11-03 21:18:52,545 - root - INFO - History saved successfully: (add, [3.0, 55.0], 58.0)
+2024-11-03 21:19:00,607 - root - INFO - Displaying calculation history.
+2024-11-03 21:19:13,512 - root - INFO - Subtracting command activated[3.0, 4.0]: Result = -1.0 
+2024-11-03 21:19:17,222 - root - INFO - History saved successfully: (subtract, [3.0, 55.0], -1.0)
+2024-11-03 21:19:20,504 - root - INFO - Displaying calculation history.
+2024-11-03 21:32:10,225 - root - INFO - Starting the application.
+2024-11-03 21:32:12,098 - root - INFO - Adding command activated[3.0, 2.0]: Result = 5.0 
+2024-11-03 21:32:12,102 - root - INFO - History saved successfully: (add, (3.0, 2.0), 5.0)
+2024-11-03 21:33:45,178 - root - INFO - Starting the application.
+2024-11-03 21:35:01,293 - root - INFO - Starting the application.
+2024-11-03 21:35:02,855 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:35:05,919 - root - INFO - History saved successfully: (add, [3.0, 4.0], 7.0)
+2024-11-03 21:35:09,523 - root - INFO - Displaying calculation history.
+2024-11-03 21:35:15,349 - root - INFO - Calculation history cleared.
+2024-11-03 21:38:28,392 - root - INFO - Starting the application.
+2024-11-03 21:41:53,327 - root - INFO - Starting the application.
+2024-11-03 21:42:24,080 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:43:47,405 - root - INFO - Starting the application.
+2024-11-03 21:47:55,171 - root - INFO - Starting the application.
+2024-11-03 21:47:57,653 - root - INFO - Adding command activated[34.0, 4.0]: Result = 38.0 
+2024-11-03 21:48:01,716 - root - INFO - History saved successfully: (add, [34.0, 4.0], 38.0)
+2024-11-03 21:48:05,731 - root - INFO - Displaying calculation history.
+2024-11-03 21:51:46,720 - root - INFO - Starting the application.
+2024-11-03 21:51:48,098 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:55:20,203 - root - INFO - Starting the application.
+2024-11-03 21:55:22,316 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 21:55:27,693 - root - WARNING - you have entered an unkown command.
+2024-11-03 21:57:41,811 - root - ERROR - ERROR Cannot divide by zero:[3.0, 0.0]
+2024-11-03 21:58:43,858 - root - INFO - Leaving calculator
+2024-11-03 21:58:49,403 - root - INFO - Starting the application.
+2024-11-03 21:58:56,320 - root - ERROR - Please provide valid numbers.
+2024-11-03 21:59:28,305 - root - INFO - Leaving calculator
+2024-11-03 22:17:03,742 - root - INFO - Starting the application.
+2024-11-03 22:17:05,368 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 22:17:07,791 - root - INFO - History saved successfully: (add, [3.0, 4.0], 7.0)
+2024-11-03 22:17:17,839 - root - INFO - Menu command activated.
+2024-11-03 22:17:21,235 - root - INFO - History saved successfully: (multiply, [3.0, 4.0], 8.0)
+2024-11-03 22:17:24,688 - root - INFO - Displaying calculation history.
+2024-11-03 22:17:38,794 - root - INFO - Leaving calculator
+2024-11-03 22:19:10,593 - root - INFO - Starting the application.
+2024-11-03 22:19:14,878 - root - INFO - Calculation history cleared.
+2024-11-03 22:19:39,786 - root - INFO - Starting the application.
+2024-11-03 22:19:41,699 - root - ERROR - Please provide valid numbers.
+2024-11-03 22:19:43,896 - root - INFO - Adding command activated[3.0, 5.0]: Result = 8.0 
+2024-11-03 22:19:51,807 - root - INFO - Adding command activated[345.0, 34.0]: Result = 379.0 
+2024-11-03 22:20:01,777 - root - INFO - History saved successfully: (add, [345.0, 34.0], 379.0)
+2024-11-03 22:20:04,733 - root - INFO - Displaying calculation history.
+2024-11-03 22:27:42,521 - root - INFO - Adding command activated[10.0, 20.0]: Result = 30.0 
+2024-11-03 22:57:57,179 - root - INFO - Leaving calculator
+2024-11-03 23:19:23,642 - root - INFO - Starting the application.
+2024-11-03 23:19:39,133 - root - INFO - Adding command activated[10.0, 2.0]: Result = 12.0 
+2024-11-03 23:19:47,051 - root - INFO - History saved successfully: (add, [10.0, 2.0], 12.0)
+2024-11-03 23:19:57,015 - root - INFO - Displaying calculation history.
+2024-11-03 23:20:06,801 - root - INFO - Calculation history cleared.
+2024-11-03 23:20:20,591 - root - INFO - Subtracting command activated[3.0, 4.0]: Result = -1.0 
+2024-11-03 23:20:27,814 - root - INFO - History saved successfully: (subtract, [10.0, 2.0], -1.0)
+2024-11-03 23:20:34,938 - root - INFO - Displaying calculation history.
+2024-11-03 23:20:45,330 - root - INFO - Menu command activated.
+2024-11-03 23:20:48,041 - root - INFO - History saved successfully: (multiply, [10.0, 2.0], 12.0)
+2024-11-03 23:20:53,354 - root - INFO - Division command activated[54.0, 3.0]: Result = 18.0 
+2024-11-03 23:20:57,872 - root - INFO - History saved successfully: (divide, [10.0, 2.0], 18.0)
+2024-11-03 23:21:10,345 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 23:21:13,330 - root - INFO - History saved successfully: (add, [3.0, 4.0], 7.0)
+2024-11-03 23:21:15,961 - root - INFO - Displaying calculation history.
+2024-11-03 23:21:30,431 - root - INFO - Calculation history cleared.
+2024-11-03 23:21:41,595 - root - INFO - Adding command activated[3.0, 3.0]: Result = 6.0 
+2024-11-03 23:21:46,193 - root - ERROR - Please provide valid numbers.
+2024-11-03 23:21:50,837 - root - WARNING - you have entered an unkown command.
+2024-11-03 23:22:04,603 - root - INFO - Adding command activated[3.0, 4.0]: Result = 7.0 
+2024-11-03 23:22:07,745 - root - INFO - History saved successfully: (add, [3.0, 4.0], 7.0)
+2024-11-03 23:22:13,295 - root - INFO - Subtracting command activated[23.0, 4.0]: Result = 19.0 
+2024-11-03 23:22:18,622 - root - INFO - History saved successfully: (subtract, [3.0, 4.0], 19.0)
+2024-11-03 23:22:23,829 - root - INFO - Leaving calculator
